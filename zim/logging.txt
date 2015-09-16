@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-16T10:45:48+00:00
+
+====== logging ======
+Created Wednesday 16 September 2015
+
+====== logging general tips & best practices: ======
+
+
+===== Logging for programming/debugging/deploying =====
+
+===== Logging for forensics =====
